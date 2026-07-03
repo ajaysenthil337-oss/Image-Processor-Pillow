@@ -102,10 +102,13 @@ The server starts at **http://10.71.243.211:5000**. Open this URL in your browse
 
 | View | Screenshot |
 |---|---|
-| Upload (Dark) | `screenshots/upload_dark.png` |
-| Process (Dark) | `screenshots/process_dark.png` |
-| Preview (Light) | `screenshots/preview_light.png` |
-| Download | `screenshots/download.png` |
+|<img width="1918" height="1093" alt="image" src="https://github.com/user-attachments/assets/f62bfae7-ae8f-4831-aef6-f41ebb808777" />
+<img width="1915" height="1083" alt="image" src="https://github.com/user-attachments/assets/622d5d97-62ed-4066-8856-55cc01dc3cca" />
+<img width="1915" height="1087" alt="image" src="https://github.com/user-attachments/assets/e1300efe-86ed-41dc-99f3-a1fd0c62fefa" />
+<img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/0023ef2d-f9a3-4ec5-896c-3192558949c0" />
+
+
+
 
 ---
 
